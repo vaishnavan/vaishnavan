@@ -25,8 +25,9 @@
 
 ### my github stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavan&show_icons=true&locale=en&layout=compact" alt="vaishnavan" /></p>
-
-### Compeled stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavan&show_icons=true&locale=en" alt="vaishnavan" /></p>
+<br />
+<br />
+### Compelteded stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavan&show_icons=true&locale=en" alt="vaishnavan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavan&" alt="vaishnavan" /></p>
