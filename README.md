@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Indeed-clone**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **React**
 
