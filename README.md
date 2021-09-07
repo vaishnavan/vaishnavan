@@ -21,6 +21,8 @@
 
 My Projects
 <ol>
+  <li>https://mysticky.netlify.app/</li>
+  <li>https://webshineinsta.netlify.app/</li>
   <li>https://webshinelearning.web.app/</li>
   <li>https://vaishnavanmresume.web.app/</li>
   <li>https://youstarter.netlify.app/</li>
