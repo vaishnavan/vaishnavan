@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavan" alt="vaishnavan" /></a> </p>
 
-- 🔭 I’m currently working on **Indeed-clone**
+- 🔭 I’m currently working on **Medium Like Blog App dev**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **React**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, redux, node.js**
 
-- 📫 How to reach me **webshine2020@gmail.com**
+- 📫 How to reach me **vaishnavanm5@gmail.com**
 
 - 📄 Know about my experiences [https://sakthi4645.github.io/Resume/](https://sakthi4645.github.io/Resume/)
 
